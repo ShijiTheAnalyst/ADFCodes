@@ -5,6 +5,9 @@
 		"factoryName": {
 			"value": "ADFDemoTestEnvt19"
 		},
+		"csv_blob_connectionString": {
+			"value": ""
+		},
 		"containerUri": {
 			"value": ""
 		},
